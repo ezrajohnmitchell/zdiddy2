@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zdiddy2
 - 👀 I’m interested in back end and software development. 
-- 🌱 I’m currently learning android development, kotlin apps, and pyton guis
+- 🌱 I’m currently learning android development, kotlin apps, and python
 - 💞️ I’m looking for an entry level software development job where I can assist and learn from a more experienced developer
 - 📫 You can reach me at z.diddy.2@gmail.com
 
